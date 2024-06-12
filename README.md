@@ -1,4 +1,4 @@
-# FlutterXFirebase Todo Application 
+# Flutter X Firebase Notes Application 
 
 🫱Amazing minimalistic UI 
 🫱Splash Screen
