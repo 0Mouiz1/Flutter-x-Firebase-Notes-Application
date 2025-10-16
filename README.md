@@ -1,5 +1,9 @@
 # 📋 Flutter X Firebase Notes Application
-#DESIGNED FOR MOBILE DEVICES only.
+
+
+-DESIGNED FOR MOBILE DEVICES.
+
+
 An elegantly designed, minimalistic notes application built with **Flutter** and powered by **Firebase**. This app offers an intuitive user experience with essential features such as authentication and real-time data management using Firebase Firestore.
 
 ## 🚀 Key Features
